@@ -1,0 +1,20 @@
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\devenv.exe)(HOST=DMD-ITOLAP001)(USER=0004537))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 30-JUL-22 10:12:01
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\devenv.exe)(HOST=DMD-ITOLAP001)(USER=0004537))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.0.0 - Production
+  Time: 30-JUL-22 10:12:12
+  Tracing not turned on.

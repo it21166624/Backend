@@ -1,0 +1,611 @@
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\biZTrack.dll.config
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\biZTrack.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\biZTrack.pdb
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csc.exe
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csc.exe.config
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csc.rsp
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csi.exe
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csi.exe.config
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\csi.rsp
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.AppContext.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Console.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Claims.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\vbc.exe
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\vbc.exe.config
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\vbc.rsp
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.Win32.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\netstandard.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.AppContext.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.Concurrent.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.NonGeneric.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.Specialized.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ComponentModel.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ComponentModel.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Console.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Data.Common.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.Contracts.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.Debug.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.Process.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.StackTrace.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.Tools.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.TraceSource.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Diagnostics.Tracing.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Drawing.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Dynamic.Runtime.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Globalization.Calendars.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Globalization.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Globalization.Extensions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.Compression.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.Compression.ZipFile.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.FileSystem.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.IsolatedStorage.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.Pipes.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Linq.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Linq.Expressions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Linq.Parallel.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Linq.Queryable.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Http.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.NameResolution.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.NetworkInformation.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Ping.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Requests.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Security.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Sockets.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.WebHeaderCollection.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.WebSockets.Client.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.WebSockets.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ObjectModel.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Reflection.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Reflection.Extensions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Reflection.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Resources.Reader.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Resources.ResourceManager.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Resources.Writer.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Extensions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Handles.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.InteropServices.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Numerics.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Serialization.Json.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Claims.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Cryptography.Csp.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.Principal.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Security.SecureString.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Encoding.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Encoding.Extensions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.RegularExpressions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Overlapped.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Tasks.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Thread.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.ThreadPool.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Timer.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.ReaderWriter.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.XDocument.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.XmlDocument.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.XmlSerializer.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.XPath.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Xml.XPath.XDocument.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Antlr3.Runtime.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Newtonsoft.Json.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Oracle.ManagedDataAccess.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\PhoneNumbers.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\QRCoder.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Buffers.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.Immutable.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Memory.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Http.Formatting.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Numerics.Vectors.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Encodings.Web.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Json.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ValueTuple.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Cors.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Helpers.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.Cors.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.WebHost.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Mvc.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Optimization.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Razor.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.Razor.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\WebGrease.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\PhoneNumbers.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Buffers.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Collections.Immutable.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Memory.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Net.Http.Formatting.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Numerics.Vectors.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Encodings.Web.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Text.Json.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.ValueTuple.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.Cors.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Newtonsoft.Json.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Helpers.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Http.WebHost.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Mvc.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Optimization.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.Razor.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\System.Web.WebPages.Razor.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Antlr3.Runtime.pdb
+C:\Users\3000186\Documents\biZTrack\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3000186\Documents\biZTrack\biZTrack\obj\Release\biZTrack.csproj.CoreCompileInputs.cache
+C:\Users\3000186\Documents\biZTrack\biZTrack\obj\Release\biZTrack.csproj.CopyComplete
+C:\Users\3000186\Documents\biZTrack\biZTrack\obj\Release\biZTrack.dll
+C:\Users\3000186\Documents\biZTrack\biZTrack\obj\Release\biZTrack.pdb
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\biZTrack.dll.config
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\biZTrack.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\biZTrack.pdb
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csc.exe
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csc.exe.config
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csc.rsp
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csi.exe
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csi.exe.config
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\csi.rsp
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.AppContext.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Console.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Claims.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\vbc.exe
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\vbc.exe.config
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\vbc.rsp
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.Win32.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\netstandard.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.AppContext.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.Concurrent.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.NonGeneric.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.Specialized.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ComponentModel.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ComponentModel.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Console.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Data.Common.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.Contracts.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.Debug.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.Process.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.StackTrace.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.Tools.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.TraceSource.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Diagnostics.Tracing.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Drawing.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Dynamic.Runtime.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Globalization.Calendars.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Globalization.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Globalization.Extensions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.Compression.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.Compression.ZipFile.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.FileSystem.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.IsolatedStorage.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.Pipes.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Linq.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Linq.Expressions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Linq.Parallel.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Linq.Queryable.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Http.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.NameResolution.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.NetworkInformation.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Ping.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Requests.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Security.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Sockets.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.WebHeaderCollection.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.WebSockets.Client.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.WebSockets.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ObjectModel.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Reflection.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Reflection.Extensions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Reflection.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Resources.Reader.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Resources.ResourceManager.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Resources.Writer.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Extensions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Handles.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.InteropServices.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Numerics.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Serialization.Json.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Claims.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Cryptography.Csp.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.Principal.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Security.SecureString.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Encoding.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Encoding.Extensions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.RegularExpressions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Overlapped.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Tasks.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Thread.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.ThreadPool.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Timer.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.ReaderWriter.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.XDocument.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.XmlDocument.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.XmlSerializer.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.XPath.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Xml.XPath.XDocument.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Antlr3.Runtime.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Newtonsoft.Json.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Oracle.ManagedDataAccess.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\PhoneNumbers.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\QRCoder.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Buffers.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.Immutable.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Memory.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Http.Formatting.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Numerics.Vectors.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Encodings.Web.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Json.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ValueTuple.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Cors.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Helpers.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.Cors.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.WebHost.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Mvc.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Optimization.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Razor.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.Razor.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\WebGrease.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\PhoneNumbers.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Buffers.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Collections.Immutable.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Memory.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Net.Http.Formatting.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Numerics.Vectors.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Encodings.Web.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Text.Json.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.ValueTuple.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.Cors.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Newtonsoft.Json.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Helpers.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Http.WebHost.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Mvc.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Optimization.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.Razor.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\System.Web.WebPages.Razor.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Antlr3.Runtime.pdb
+C:\Users\3000186\source\repos\biZtrack\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3000186\source\repos\biZtrack\biZTrack\obj\Release\biZTrack.csproj.CoreCompileInputs.cache
+C:\Users\3000186\source\repos\biZtrack\biZTrack\obj\Release\biZTrack.csproj.CopyComplete
+C:\Users\3000186\source\repos\biZtrack\biZTrack\obj\Release\biZTrack.dll
+C:\Users\3000186\source\repos\biZtrack\biZTrack\obj\Release\biZTrack.pdb
+C:\Users\3000186\source\repos\biZtrack\biZTrack\obj\Release\biZTrack.csprojAssemblyReference.cache
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\biZTrack.dll.config
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\biZTrack.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\biZTrack.pdb
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csc.exe
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csc.exe.config
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csc.rsp
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csi.exe
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csi.exe.config
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\csi.rsp
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.Managed.Core.targets
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.AppContext.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Collections.Immutable.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Console.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.IO.Compression.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.IO.FileSystem.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.IO.Pipes.AccessControl.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.IO.Pipes.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Reflection.Metadata.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.AccessControl.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Claims.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Security.Principal.Windows.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.ValueTuple.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Xml.XmlDocument.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Xml.XPath.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\vbc.exe
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\vbc.exe.config
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\vbc.rsp
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\VBCSCompiler.exe
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\roslyn\VBCSCompiler.exe.config
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.Win32.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\netstandard.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.AppContext.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.Concurrent.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.NonGeneric.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.Specialized.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ComponentModel.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ComponentModel.EventBasedAsync.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ComponentModel.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ComponentModel.TypeConverter.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Console.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Data.Common.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.Contracts.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.Debug.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.FileVersionInfo.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.Process.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.StackTrace.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.TextWriterTraceListener.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.Tools.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.TraceSource.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Diagnostics.Tracing.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Drawing.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Dynamic.Runtime.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Globalization.Calendars.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Globalization.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Globalization.Extensions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.Compression.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.Compression.ZipFile.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.FileSystem.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.FileSystem.DriveInfo.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.FileSystem.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.FileSystem.Watcher.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.IsolatedStorage.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.MemoryMappedFiles.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.Pipes.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.IO.UnmanagedMemoryStream.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Linq.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Linq.Expressions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Linq.Parallel.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Linq.Queryable.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Http.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.NameResolution.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.NetworkInformation.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Ping.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Requests.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Security.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Sockets.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.WebHeaderCollection.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.WebSockets.Client.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.WebSockets.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ObjectModel.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Reflection.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Reflection.Extensions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Reflection.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Resources.Reader.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Resources.ResourceManager.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Resources.Writer.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.CompilerServices.VisualC.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Extensions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Handles.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.InteropServices.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Numerics.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Serialization.Formatters.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Serialization.Json.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Serialization.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.Serialization.Xml.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Claims.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Cryptography.Algorithms.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Cryptography.Csp.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Cryptography.Encoding.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Cryptography.Primitives.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Cryptography.X509Certificates.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.Principal.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Security.SecureString.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Encoding.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Encoding.Extensions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.RegularExpressions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Overlapped.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Tasks.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Tasks.Parallel.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Thread.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.ThreadPool.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Timer.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.ReaderWriter.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.XDocument.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.XmlDocument.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.XmlSerializer.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.XPath.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Xml.XPath.XDocument.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Antlr3.Runtime.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.Web.Infrastructure.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Newtonsoft.Json.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Oracle.ManagedDataAccess.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\PhoneNumbers.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\QRCoder.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Buffers.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.Immutable.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Memory.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Http.Formatting.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Numerics.Vectors.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Encodings.Web.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Json.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Tasks.Extensions.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ValueTuple.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Cors.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Helpers.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.Cors.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.WebHost.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Mvc.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Optimization.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Razor.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.Deployment.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.Razor.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\WebGrease.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.Bcl.AsyncInterfaces.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\PhoneNumbers.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Buffers.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Collections.Immutable.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Memory.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Net.Http.Formatting.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Numerics.Vectors.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Runtime.CompilerServices.Unsafe.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Encodings.Web.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Text.Json.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Threading.Tasks.Extensions.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.ValueTuple.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.Cors.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Newtonsoft.Json.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Helpers.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Http.WebHost.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Mvc.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Optimization.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.Razor.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.Deployment.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\System.Web.WebPages.Razor.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Antlr3.Runtime.pdb
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\obj\Release\biZTrack.csprojAssemblyReference.cache
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\obj\Release\biZTrack.csproj.CoreCompileInputs.cache
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\obj\Release\biZTrack.csproj.CopyComplete
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\obj\Release\biZTrack.dll
+V:\SOFTWARE DEVELOPMENT\NAYANA\biZTrack backend\biZTrack\obj\Release\biZTrack.pdb
